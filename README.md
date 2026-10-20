@@ -9,6 +9,8 @@ Skill dalam repositori ini dirancang agar dapat dibaca sebagai instruksi Markdow
 | Skill | Kegunaan |
 | --- | --- |
 | [Audit Dokumen Studi Kasus SIA](./audit-dokumen-studi-kasus-sia/SKILL.md) | Menilai progres, kualitas, konsistensi, risiko, dan kesiapan tahap dokumen proyek SIA. |
+| [Simulasi Wawancara Studi Kasus SIA](./simulasi-wawancara-studi-kasus-sia/SKILL.md) | Memfasilitasi latihan wawancara elisitasi untuk mahasiswa yang menyusun studi kasus Sistem Informasi Akuntansi.|
+
 
 ## Cara menggunakan
 
